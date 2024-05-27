@@ -1,0 +1,48 @@
+Artificial intelligence
+Artificial intelligence (AI) is intelligence demonstrated by machines. One definition of artificial intelligence relates computers developing cognitive functions such as learning and problem solving, but other definitions focus on the perceptions that the AI systems gain from the environment and the actions they take to fulfil their objectives. AI has also been defined in terms of systems actively making decisions rather than just responding mechanically, showing intelligence by use of data analysis and recognition of what is relevant to solve problems, and having the ability to learn and adapt as they process information and make decisions. Practical definitions of AI focus on the tasks that can be undertaken using AI.        
+
+Algorithms are a vital element of AI. Algorithms can be defined as processes or sequences of steps to be used in problem-solving operations or for accomplishing tasks.
+
+The scope of AI is being extended as technology advances. However, at the same time, simpler abilities, such as optical character recognition, are no longer strictly considered to be AI, as these abilities are now generally inherent in computers.
+
+Uses of AI
+Retail industry
+There are many ways in which AI is being used in retail, most often to enhance the customer experience:
+
+Creation of environment – AI helps retail businesses to learn from each interaction with customers and improve the digital and physical environment they offer, adapting in-store displays in line with customer profiles and evolving the digital displays offered to customers.
+
+Changed relationship with customer – AI enables a continuously-developing relationship with customers to be established, so that what is offered to customers on their home page reflects developments in their shopping behaviour. AI can also help facilitate two-way conversation with customers, answering questions and using the information to build customer profiles. The data available about customers may not just take the form of purchase and query records, but also facial or audio responses that reflect what customers are thinking.           
+
+Guiding purchasing decisions – Automated assistants can build on the information stored about customers to help them make appropriate purchasing decisions.
+
+Systems development – AI can build on customer information, using it along with competitor and market information, to develop supply chain planning, and pricing and promotional strategies. 
+
+Product development – the data obtained about customers, not just purchasing but also feedback and sentiments expressed, can be used to develop future product and service designs that fulfil current customer requirements and anticipate future customer needs.    
+Other sectors
+Many other sectors are making increasing use of AI:
+
+Medicine and healthcare – AI  can analyse huge quantities of patient data in order to help prevent illness, by identifying people who are particularly at risk and prompting intervention to reduce the risk of disease developing. Medical diagnosis AI technology can use information about a person’s history and genetic make-up to personalise medical treatment. 
+
+Transportation – AI-based features are now part of many cars, including automatic parking systems. More advanced AI is used in self-driving cars. AI can also assist in route planning, avoiding areas of heavy traffic or poor road conditions. 
+
+Agriculture – algorithms designed for crop and soil monitoring can be used to track the health of crops. AI can also consider climate and other environmental conditions and, as a result, predict when crops will ripen, assisting planning.
+
+Cybersecurity – AI can help defend against hacking by analysing data to detect anomalies and allow focus on areas of greatest threat. It can also help by sorting data into high and low risk information.
+
+Human resources – AI can be used to distinguish candidates by how qualified they are for a particular job. Job matching platforms provide prediction for hirers of how successful candidates will be in particular roles, whilst allowing candidates to create profiles that facilitate their being matched with the right opportunities.
+
+Financial investment and trading – AI is used by large financial institutions to support their investment practices. AI systems use algorithms in high-speed trading, making decisions many times quicker than humans can. Some investment portfolios are managed purely by AI.                
+Machine learning
+Machine learning involves using algorithms to gain experience through using data (known as training data) and harnessing this knowledge to establish relationships or learn how to do particular tasks without being programmed to do so. At a more advanced level, computer systems may be more effective in developing the algorithms needed to complete the tasks than humans would be.
+
+The relationship between artificial intelligence and machine learning is not straightforward. Some see machine learning as wholly a part of AI, others believe that only some forms of more advanced machine learning can be called AI.
+
+A key output in machine learning is prediction, where an algorithm has gained experience on a historical data-set and used the experience to make a prediction, based on new data, which is a prompt for action. Machine learning can also provide guidance on actions to take to achieve objectives.  
+
+One classification of machine learning is into three types:
+
+Supervised learning – this is based on training data and human feedback. It involves establishing the relationships between specified inputs and outputs. Regression analysis is a form of supervised learning. Supervised learning has been used in the fields of bioinformatics (for mapping biological processes) and developing speech recognition by computers. It also has applications in personalised marketing of products or services, based on information held in databases.  
+
+Unsupervised learning – this involves establishing patterns between, or structures in, the specified inputs and therefore being able to classify the input data. Again there are marketing applications in being able to link customers who have similar buying histories with attributes that they have in common, for example age.   
+
+Reinforcement learning – this is a learning process involving the maximisation of rewards for the actions taken. It can be most useful in situations where the input training data is limited or the output (target) cannot be clearly specified. This means that, in order to learn, the system has to gain experience through interaction with the environment. If it turns out that the system has not maximised its rewards, it learns from this. It is therefore possible that actions may need to be taken that are sub-optimal in the short-term, in order to gain the knowledge required to achieve longer-term maximisation of rewards. Reinforcement learning has been important in areas including investment portfolio management and robot control, as well as increasing the standard of play of machines programmed to play strategy games such as chess and backgammon.
