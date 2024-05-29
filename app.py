@@ -53,7 +53,7 @@ class agentCollection:
         agentfile = Agent(
             role="General File Content Searcher and Writer",
             goal="Generate a detailed description of relevant content from various file formats provided by the user",
-            backstory="You have extensive experience in handling different types of files, including PDFs, DOCX, TXT, and CSV. Your role is to expertly extract and describe the most pertinent information from any file format to meet the user's needs.",
+            backstory="You have extensive experience in handling different types of files, like JSON and CSV. Your role is to expertly extract and describe the most pertinent information from any file format to meet the user's needs.",
             verbose=True,
             tools=[toolsCollection.toolFile(filepath)],
             llm=llm,
