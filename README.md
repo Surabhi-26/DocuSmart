@@ -99,4 +99,4 @@ For any inquiries or feedback, please reach out to:
 
 ---
 
-Developed by Surabhi Tilekar.
+Developed by Surabhi Tilekar and Ishan Pardeshi.
