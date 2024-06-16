@@ -1,6 +1,6 @@
-# Smart-File-Assistant 🚀
+# DocuSmart-Smart File Assistant 🚀
 
-**Smart-File-Assistant** is a versatile AI-powered tool designed using crewAI to assist users in extracting and summarizing content from various file formats including CSV, PDF, DOCX, TXT, and JSON. Leveraging advanced language models, this application can provide detailed descriptions and comprehensive reports based on user queries.
+**DocuSmart** is a versatile AI-powered tool designed using crewAI to assist users in extracting and summarizing content from various file formats including CSV, PDF, DOCX, TXT, and JSON. Leveraging advanced language models, this application can provide detailed descriptions and comprehensive reports based on user queries.
 
 ## Features ✨
 
