@@ -256,12 +256,29 @@ def run_ai(file, query, required_ans_format):
     result = crew.kickoff()
     return result
 
-iface = gr.Interface(
+testing_folder = os.path.join(os.getcwd(), "Testing Folder")
+interface = gr.Interface(
     fn=run_ai,
-    inputs=[gr.File(label="Upload File"), "text", "text"],
+    inputs=[
+        gr.File(label="Upload File"),
+        gr.Textbox(label="Query"),
+        gr.Textbox(label="Expected Output")
+    ],
     outputs="text",
-    title="Smart File Assistant",
-    description="Upload a file (CSV,PDF,DOCX,TXT,JSON), enter your query, and specify the format of the expected answer"
+    title="DocuSmart",
+    description=(
+        "Upload a file (CSV, PDF, DOCX, TXT, JSON) and enter your query to get detailed information.\n\n"
+        "### Instructions:\n"
+        "1. Upload the file you want to talk to.\n"
+        "2. Enter your question in the Query field.\n"
+        "3. Specify the desired output format, e.g., one line answer.\n"
+        "4. Press 'Submit' and wait for the response.\n\n"
+    ),
+    examples=[
+        [(os.path.join(testing_folder, "LabManual.pdf")), "What is RIP?", "detailed description"],
+        [(os.path.join(testing_folder, "ElectricCarData_Clean.csv")), "Which Brand has most vehicles?", "one line answer"]
+    ],
+    theme=gr.themes.Soft()
 )
 
-iface.launch()
+interface.launch()
