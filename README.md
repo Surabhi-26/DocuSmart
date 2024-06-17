@@ -62,6 +62,9 @@
 
 2. Open your web browser and go to `http://localhost:7860` to access the Smart File Assistant interface.
 
+## Deployment Link Bellow 👇
+https://huggingface.co/spaces/SurabhiT/DocuSmart
+
 ## Usage 📖
 
 1. **Upload a file**: Select and upload a file (CSV, PDF, DOCX, TXT, or JSON).
