@@ -2,7 +2,7 @@
 
 **DocuSmart** is a versatile AI-powered tool designed using crewAI to assist users in extracting and summarizing content from various file formats including CSV, PDF, DOCX, TXT, and JSON. Leveraging advanced language models, this application can provide detailed descriptions and comprehensive reports based on user queries.
 
-## Features ✨
+## Features ✨ 
 
 - **📄 PDF Content Extraction**: Extract and summarize content from PDF files.
 - **🗂️ General File Content Extraction**: Handle multiple file formats (CSV, JSON) and extract relevant information.
